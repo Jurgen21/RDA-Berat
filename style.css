@@ -1387,11 +1387,11 @@ label {
 /*ABOUT US*/
 
 #aboutus {
-    margin-top: 100vh;
+    margin-top: 90.5vh;
 }
 
 .auto-carousel {
-  overflow: hidden;
+    overflow: hidden;
     height: 12vh;
 }
 
